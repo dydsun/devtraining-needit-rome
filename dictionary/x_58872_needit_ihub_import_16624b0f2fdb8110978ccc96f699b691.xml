@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="ys_test" max_length="40" name="x_58872_needit_ihub_import_16624b0f2fdb8110978ccc96f699b691" sizeclass="4" type="collection">
+        <element attributes="import_attribute_name=test" label="test" max_length="40" name="u_test" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=test1" label="test1" max_length="40" name="u_test1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=test2" label="test2" max_length="40" name="u_test2" type="string"/>
+    </element>
+</database>
